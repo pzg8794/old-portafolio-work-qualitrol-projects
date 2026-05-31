@@ -1,0 +1,109 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# reports
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `1.docx` - File, 23.8 KB.
+- `About Dissolved Gas Ratios--from-Diagnostics-and-utilities-2008-Serveron.Diagnostics.rtf` - File, 61.5 KB.
+- `About Dissolved Gas Ratios.rtf` - File, 60.7 KB.
+- `ADV-P-Application-Information-Definitions.pdf` - File, 379.2 KB.
+- `APPL CQCs MTD (2).pdf` - File, 23.0 KB.
+- `BCM Lite HW Architecture Description (20131007) Rev 01.doc` - File, 937.0 KB.
+- `BCM Testing Procedure1.docx` - File, 23.4 MB.
+- `BCM Testing Procedures.docx` - File, 26.3 KB.
+- `BCM_Events and Records Pages _Test_plan (preliminary).doc` - File, 32.0 KB.
+- `BCM_Home_status_Test_plan (preliminary).doc` - File, 35.0 KB.
+- `BCMLite_TestPlan (Autosaved).doc` - File, 937.5 KB.
+- `Beattie.pdf` - File, 291.3 KB.
+- `Bug 14.docx` - File, 229.6 KB.
+- `BugZilla Bugs.docx` - File, 404.5 KB.
+- `Copy of Sales Territory Map - Sept 2013.xls` - File, 428.5 KB.
+- `CQC Analysis Form - APCQC.pdf` - File, 41.0 KB.
+- `CQC Analysis Form - DanielCQC.pdf` - File, 40.1 KB.
+- `CQC Analysis Form - DanielCQC2.pdf` - File, 17.7 KB.
+- `CQC Analysis Form - JanoCQC.pdf` - File, 81.1 KB.
+- `CQC Analysis Form - MikeCQC.pdf` - File, 39.8 KB.
+- `CQC Analysis Form - PeterCQC.pdf` - File, 40.6 KB.
+- `CQC Analysis Form - RaihanCQC.pdf` - File, 39.9 KB.
+- `CreationSql.install--from-Database-SqlScripts.txt` - File, 67 B.
+- `CreationSql.install--from-Database-support-Creation-Scripts.txt` - File, 67 B.
+- `CreationSql.install--from-SQL-Scripts-v1.0.txt` - File, 67 B.
+- `CreationSql.install.txt` - File, 67 B.
+- `FAQ.rtf` - File, 4.1 KB.
+- `fuseterm.pdf` - File, 568.6 KB.
+- `How to turn on OPC--from-TM-View-5.2-How-to-turn-on-OPC.docx` - File, 267.5 KB.
+- `How to turn on OPC.docx` - File, 267.5 KB.
+- `I2T.docx` - File, 93.2 KB.
+- `Installation Manual.pdf` - File, 1.1 MB.
+- `IsqT.pdf` - File, 38.3 KB.
+- `IsquaredTCal.pdf` - File, 72.0 KB.
+- `Kronos locations.PDF` - File, 568.6 KB.
+- `Kronos Timekeeper Clock Guide.pdf` - File, 182.0 KB.
+- `License Terms.rtf` - File, 46.1 KB.
+- `OMICROM Issue.txt` - File, 309 B.
+- `Piter-PSP Prework.xlsx` - File, 12.3 KB.
+- `PSI Unit Test - Ambient Temperature.docx` - File, 301.2 KB.
+- `PSI Unit Test - Cons High Temperature.docx` - File, 281.1 KB.
+- `PSI Unit Test - Cons Low Temperature.docx` - File, 282.9 KB.
+- `PSI Unit Test - Low Temperature.docx` - File, 268.7 KB.
+- `PSP - Piter Garcia.xls` - File, 288.0 KB.
+- `Ratio Viewer Key Help--from-Diagnostics-and-utilities-2008-Serveron.Diagnostics.rtf` - File, 35.3 KB.
+- `Ratio Viewer Key Help.rtf` - File, 34.3 KB.
+- `Read me.txt` - File, 61 B.
+- `READ_ME--from-SQL-Scripts-v1.4.txt` - File, 532 B.
+- `READ_ME--from-Updates-Update-1.4.txt` - File, 532 B.
+- `READ_ME.txt` - File, 534 B.
+- `README--from-SQL-Scripts-v1.5.txt` - File, 532 B.
+- `README--from-SQL-Scripts-v1.6.txt` - File, 532 B.
+- `README--from-Updates-Update-1.5.txt` - File, 532 B.
+- `README--from-Updates-Update-1.6.txt` - File, 532 B.
+- `Readme.txt` - File, 8.6 KB.
+- `ReleaseNotes.rtf` - File, 503.6 KB.
+- `REPORT_INITIAL.PDF` - File, 116.3 KB.
+- `resume2.pdf` - File, 50.9 KB.
+- `Setup_ReadMe.txt` - File, 230 B.
+- `sig-alternate.cls` - File, 58.3 KB.
+- `The Graduate Advisor Handbook A Student-Centered Approach.pdf` - File, 544.0 KB.
+- `TM View Software User's Manual.pdf` - File, 4.7 MB.
+- `Tutoring Form.doc` - File, 23.5 KB.
+- `Update1_1.install--from-Database-SqlScripts.txt` - File, 179 B.
+- `Update1_1.install--from-SQL-Scripts-v1.1.txt` - File, 179 B.
+- `Update1_1.install--from-Updates-Update-1.1.txt` - File, 179 B.
+- `Update1_1.install.txt` - File, 179 B.
+- `Update1_2.install--from-Database-SqlScripts.txt` - File, 975 B.
+- `Update1_2.install--from-SQL-Scripts-v1.2.txt` - File, 975 B.
+- `Update1_2.install--from-Updates-Update-1.2.txt` - File, 975 B.
+- `Update1_2.install.txt` - File, 975 B.
+- `Update1_3.install--from-Database-SqlScripts.txt` - File, 595 B.
+- `Update1_3.install--from-SQL-Scripts-v1.3.txt` - File, 595 B.
+- `Update1_3.install--from-Updates-Update-1.3.txt` - File, 595 B.
+- `Update1_3.install.txt` - File, 595 B.
+- `Update1_4.install--from-Database-SqlScripts.txt` - File, 278 B.
+- `Update1_4.install--from-SQL-Scripts-v1.4.txt` - File, 278 B.
+- `Update1_4.install--from-Updates-Update-1.4.txt` - File, 278 B.
+- `Update1_4.install.txt` - File, 278 B.
+- `Update1_5.install--from-Database-SqlScripts.txt` - File, 105 B.
+- `Update1_5.install--from-SQL-Scripts-v1.5.txt` - File, 105 B.
+- `Update1_5.install--from-Updates-Update-1.5.txt` - File, 105 B.
+- `Update1_5.install.txt` - File, 105 B.
+- `Update1_6.install--from-Database-SqlScripts.txt` - File, 244 B.
+- `Update1_6.install--from-SQL-Scripts-v1.6.txt` - File, 244 B.
+- `Update1_6.install--from-Updates-Update-1.6.txt` - File, 244 B.
+- `Update1_6.install.txt` - File, 244 B.
+- `Update2_0.install--from-Database-SqlScripts.txt` - File, 1.1 KB.
+- `Update2_0.install--from-SQL-Scripts-v2.0.txt` - File, 1.1 KB.
+- `Update2_0.install--from-Updates-Update-2.0.txt` - File, 1.1 KB.
+- `Update2_0.install.txt` - File, 1.1 KB.
+- `Update2_1.install--from-Database-SqlScripts.txt` - File, 127 B.
+- `Update2_1.install--from-SQL-Scripts-v2.1.txt` - File, 127 B.
+- `Update2_1.install--from-Updates-Update-2.1.txt` - File, 127 B.
+- `Update2_1.install.txt` - File, 127 B.
+- `Update2_2.install--from-Database-SqlScripts.txt` - File, 297 B.
+- `Update2_2.install--from-SQL-Scripts-v2.2.txt` - File, 297 B.
+- `Update2_2.install--from-Updates-Update-2.2.txt` - File, 297 B.
+- `Update2_2.install.txt` - File, 297 B.
+- `~$1.docx` - File, 162 B.
+- `~$M Testing Procedures.docx` - File, 162 B.
+- `~$rdware Instructions APGV Project.docx` - File, 162 B.

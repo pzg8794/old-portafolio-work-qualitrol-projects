@@ -1,0 +1,3 @@
+alterProcGetDgaEarliestSampleTime.sql
+alterProcDeleteMonitor.sql
+"EXEC UpdateDBVersion '2.1', 'Fix for Earliest sample time'"

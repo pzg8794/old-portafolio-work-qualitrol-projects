@@ -1,0 +1,9 @@
+createTableGasInGas.sql
+createProcSaveGiG.sql
+createProcLoadGiG.sql
+alterProcGetAllDgaResults.sql
+createTableTmxRuns.sql
+createProcSaveTmxRuns.sql
+alterProcDeleteMonitor.sql
+alterProcPurgeTmxRecords.sql
+"EXEC UpdateDBVersion '1.4', 'Gas-in-Gas table, Saving raw runs'"

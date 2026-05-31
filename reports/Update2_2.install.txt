@@ -1,0 +1,9 @@
+createTableToanResults.sql
+createProcGetToanResults.sql
+createProcGetLastToanResult.sql
+createProcSaveToanResults.sql
+alterProcPurgeAllAssetMappings.sql
+alterProcGetAllDgaResults.sql
+alterProcDeleteMonitor.sql
+UpdateTm1MonitorType.sql
+EXEC UpdateDBVersion '2.2', 'Adding Toan DB Elements'"

@@ -1,0 +1,113 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Overleaf Prep
+
+Paper, report, and presentation files imported into GitHub are grouped here for later Overleaf conversion.
+
+## Papers
+
+- `papers/White+Paper+Volume+1.pdf`
+
+## Reports
+
+- `reports/1.docx`
+- `reports/About Dissolved Gas Ratios--from-Diagnostics-and-utilities-2008-Serveron.Diagnostics.rtf`
+- `reports/About Dissolved Gas Ratios.rtf`
+- `reports/ADV-P-Application-Information-Definitions.pdf`
+- `reports/APPL CQCs MTD (2).pdf`
+- `reports/BCM Lite HW Architecture Description (20131007) Rev 01.doc`
+- `reports/BCM Testing Procedure1.docx`
+- `reports/BCM Testing Procedures.docx`
+- `reports/BCM_Events and Records Pages _Test_plan (preliminary).doc`
+- `reports/BCM_Home_status_Test_plan (preliminary).doc`
+- `reports/BCMLite_TestPlan (Autosaved).doc`
+- `reports/Beattie.pdf`
+- `reports/Bug 14.docx`
+- `reports/BugZilla Bugs.docx`
+- `reports/Copy of Sales Territory Map - Sept 2013.xls`
+- `reports/CQC Analysis Form - APCQC.pdf`
+- `reports/CQC Analysis Form - DanielCQC.pdf`
+- `reports/CQC Analysis Form - DanielCQC2.pdf`
+- `reports/CQC Analysis Form - JanoCQC.pdf`
+- `reports/CQC Analysis Form - MikeCQC.pdf`
+- `reports/CQC Analysis Form - PeterCQC.pdf`
+- `reports/CQC Analysis Form - RaihanCQC.pdf`
+- `reports/CreationSql.install--from-Database-SqlScripts.txt`
+- `reports/CreationSql.install--from-Database-support-Creation-Scripts.txt`
+- `reports/CreationSql.install--from-SQL-Scripts-v1.0.txt`
+- `reports/CreationSql.install.txt`
+- `reports/FAQ.rtf`
+- `reports/fuseterm.pdf`
+- `reports/How to turn on OPC--from-TM-View-5.2-How-to-turn-on-OPC.docx`
+- `reports/How to turn on OPC.docx`
+- `reports/I2T.docx`
+- `reports/Installation Manual.pdf`
+- `reports/IsqT.pdf`
+- `reports/IsquaredTCal.pdf`
+- `reports/Kronos locations.PDF`
+- `reports/Kronos Timekeeper Clock Guide.pdf`
+- `reports/License Terms.rtf`
+- `reports/OMICROM Issue.txt`
+- `reports/Piter-PSP Prework.xlsx`
+- `reports/PSI Unit Test - Ambient Temperature.docx`
+- `reports/PSI Unit Test - Cons High Temperature.docx`
+- `reports/PSI Unit Test - Cons Low Temperature.docx`
+- `reports/PSI Unit Test - Low Temperature.docx`
+- `reports/PSP - Piter Garcia.xls`
+- `reports/Ratio Viewer Key Help--from-Diagnostics-and-utilities-2008-Serveron.Diagnostics.rtf`
+- `reports/Ratio Viewer Key Help.rtf`
+- `reports/Read me.txt`
+- `reports/READ_ME--from-SQL-Scripts-v1.4.txt`
+- `reports/READ_ME--from-Updates-Update-1.4.txt`
+- `reports/READ_ME.txt`
+- `reports/README--from-SQL-Scripts-v1.5.txt`
+- `reports/README--from-SQL-Scripts-v1.6.txt`
+- `reports/README--from-Updates-Update-1.5.txt`
+- `reports/README--from-Updates-Update-1.6.txt`
+- `reports/Readme.txt`
+- `reports/ReleaseNotes.rtf`
+- `reports/REPORT_INITIAL.PDF`
+- `reports/resume2.pdf`
+- `reports/Setup_ReadMe.txt`
+- `reports/sig-alternate.cls`
+- `reports/The Graduate Advisor Handbook A Student-Centered Approach.pdf`
+- `reports/TM View Software User's Manual.pdf`
+- `reports/Tutoring Form.doc`
+- `reports/Update1_1.install--from-Database-SqlScripts.txt`
+- `reports/Update1_1.install--from-SQL-Scripts-v1.1.txt`
+- `reports/Update1_1.install--from-Updates-Update-1.1.txt`
+- `reports/Update1_1.install.txt`
+- `reports/Update1_2.install--from-Database-SqlScripts.txt`
+- `reports/Update1_2.install--from-SQL-Scripts-v1.2.txt`
+- `reports/Update1_2.install--from-Updates-Update-1.2.txt`
+- `reports/Update1_2.install.txt`
+- `reports/Update1_3.install--from-Database-SqlScripts.txt`
+- `reports/Update1_3.install--from-SQL-Scripts-v1.3.txt`
+- `reports/Update1_3.install--from-Updates-Update-1.3.txt`
+- `reports/Update1_3.install.txt`
+- `reports/Update1_4.install--from-Database-SqlScripts.txt`
+- `reports/Update1_4.install--from-SQL-Scripts-v1.4.txt`
+- `reports/Update1_4.install--from-Updates-Update-1.4.txt`
+- `reports/Update1_4.install.txt`
+- `reports/Update1_5.install--from-Database-SqlScripts.txt`
+- `reports/Update1_5.install--from-SQL-Scripts-v1.5.txt`
+- `reports/Update1_5.install--from-Updates-Update-1.5.txt`
+- `reports/Update1_5.install.txt`
+- `reports/Update1_6.install--from-Database-SqlScripts.txt`
+- `reports/Update1_6.install--from-SQL-Scripts-v1.6.txt`
+- `reports/Update1_6.install--from-Updates-Update-1.6.txt`
+- `reports/Update1_6.install.txt`
+- `reports/Update2_0.install--from-Database-SqlScripts.txt`
+- `reports/Update2_0.install--from-SQL-Scripts-v2.0.txt`
+- `reports/Update2_0.install--from-Updates-Update-2.0.txt`
+- `reports/Update2_0.install.txt`
+- `reports/Update2_1.install--from-Database-SqlScripts.txt`
+- `reports/Update2_1.install--from-SQL-Scripts-v2.1.txt`
+- `reports/Update2_1.install--from-Updates-Update-2.1.txt`
+- `reports/Update2_1.install.txt`
+- `reports/Update2_2.install--from-Database-SqlScripts.txt`
+- `reports/Update2_2.install--from-SQL-Scripts-v2.2.txt`
+- `reports/Update2_2.install--from-Updates-Update-2.2.txt`
+- `reports/Update2_2.install.txt`
+- `reports/~$1.docx`
+- `reports/~$M Testing Procedures.docx`
+- `reports/~$rdware Instructions APGV Project.docx`

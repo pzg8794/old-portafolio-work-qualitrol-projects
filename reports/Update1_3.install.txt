@@ -1,0 +1,19 @@
+alterPollingTable.sql
+alterProcMarkPollingEvent.sql
+alterProcGetLastPollingEvents.sql
+CreateProcPurgePollingTable.sql
+createProcUpdateDbVersion.sql
+createProcGetLast2Ppm.sql
+AddTm1MonitorType.sql
+createBackupUser.sql
+alterGetToA4Analysis.sql
+alterProcDeleteMonitor.sql
+alterProcPurgeAllAssets.sql
+alterTableTmxInternal.sql
+alterProcSaveTmxInternal.sql
+alterTableTmxExternal.sql
+alterProcSaveTmxExternal.sql
+alterTableTmxExtractor.sql
+alterProcSaveTmxExtractor.sql
+AllowRemoteConnections.sql
+"EXEC UpdateDBVersion '1.3', 'New Data State manager, additional fields from REX cmd'"

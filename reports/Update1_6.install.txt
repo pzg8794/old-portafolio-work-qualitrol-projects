@@ -1,0 +1,7 @@
+alterDeleteMonitor.sql
+createTableTm1Data.sql
+createProcSaveDgaTm1.sql
+updateTableMonitorTypes.sql
+createProcGetTm1Results.sql
+InsertTm1MonitorType.sql
+"EXEC UpdateDBVersion '1.6', 'Reset HighRecord when deleting monitor data, added TM1'"

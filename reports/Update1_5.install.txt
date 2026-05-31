@@ -1,0 +1,2 @@
+alterProcGetEarliestDgaSampleTime.sql
+"EXEC UpdateDBVersion '1.5', 'DGA sample time without ppm data'"

@@ -1,0 +1,8 @@
+ExtendLicensing.sql
+ExtendPlacement.sql
+alterLoadMonitor.sql
+alterLoadAllAssets.sql
+alterAttachMonitor.sql
+alterDeleteMonitor.sql
+alterSaveLicenses.sql
+alterDBVersion.sql

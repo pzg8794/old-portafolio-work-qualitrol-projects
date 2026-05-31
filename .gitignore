@@ -1,0 +1,16 @@
+.DS_Store
+Icon*
+Thumbs.db
+*.tmp
+*.swp
+*.log
+*.zip
+*.7z
+*.rar
+*.exe
+*.dmg
+*.cab
+*.psd
+*.sketch
+node_modules/
+vendor/
